@@ -42,7 +42,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[website]: https://www.dummyapt.def
+[website]: https://www.dummyapt.de
 [twitter]: https://twitter.com/Dummyapt
 [youtube]: https://www.youtube.com/channel/UCkdI5tXToLqHvyaBRqW0s7Q
 [instagram]: https://instagram.com/Dummyapt
