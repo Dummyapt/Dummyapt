@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Duha - aka [Dummyapt](https://www.dummyapt.de) 👋
 
-[![Website](https://img.shields.io/website?label=dummyapt.de&style=for-the-badge&url=https%3A%2F%2Fdummyapt.de)](https://www.dummyapt.de)
+[![Website](https://img.shields.io/website?label=dummyapt.de&style=for-the-badge&url=https%3A%2F%2Fdummyapt.de)](https://www.dummyapt.def)
 [![Twitter](https://img.shields.io/twitter/follow/Dummyapt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Dummyapt)
 
 ## I'm a junior developer and student!
