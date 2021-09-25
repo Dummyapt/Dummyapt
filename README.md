@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Duha - aka [Dummyapt](https://www.dummyapt.de) 👋
 
-[![Website](https://img.shields.io/website?label=dummyapt.de&style=for-the-badge&url=https%3A%2F%2Fdummyapt.de)](https://www.dummyapt.def)
+[![Website](https://img.shields.io/website?label=dummyapt.de&style=for-the-badge&url=https%3A%2F%2Fdummyapt.de)](https://www.dummyapt.de)
 [![Twitter](https://img.shields.io/twitter/follow/Dummyapt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Dummyapt)
 
 ## I'm a junior developer and student!
@@ -42,7 +42,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[website]: https://www.dummyapt.de
+[website]: https://www.dummyapt.def
 [twitter]: https://twitter.com/Dummyapt
 [youtube]: https://www.youtube.com/channel/UCkdI5tXToLqHvyaBRqW0s7Q
 [instagram]: https://instagram.com/Dummyapt
