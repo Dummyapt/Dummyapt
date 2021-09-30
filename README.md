@@ -11,6 +11,7 @@
 - 👀 I’m interested in Java programming and administrating servers
 - 👯 I’m looking to collaborate with others
 - ⚡ Fun fact: I love classical music
+- ⚡ Another fun fact: I like helping others with problems related to programming and servers
 
 ### Connect with me:
 
