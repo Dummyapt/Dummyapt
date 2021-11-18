@@ -7,11 +7,10 @@
 
 ## I'm a junior developer and student!
 
-- 🌱 I’m currently learning Spring and web apps in general
-- 👀 I’m interested in Java programming and administrating servers
-- 👯 I’m looking to collaborate with others
+- 🌱 I’m currently learning to use Spring Boot, JavaFX and working with databases
+- 👀 I’m interested in Java and administrating servers
 - ⚡ Fun fact: I love classical music
-- ⚡ Another fun fact: I like helping others with problems related to programming and servers
+- ⚡ Another fun fact: I like playing computer games
 
 ### Connect with me:
 
@@ -23,8 +22,9 @@
 
 <br>
 
-### Languages and Tools:
+### Languages, Tools etc.:
 
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" />
 <img align="left" alt="IntelliJ IDEA Ultimate" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-initializr/0.7.0/1615883353860/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
