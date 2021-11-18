@@ -1,5 +1,3 @@
-# Dummyapt Repository
-
 ### Hi there, I'm Duha - aka [Dummyapt](https://www.dummyapt.de) 👋
 
 [![Website](https://img.shields.io/website?label=dummyapt.de&style=for-the-badge&url=https%3A%2F%2Fdummyapt.de)](https://www.dummyapt.de)
