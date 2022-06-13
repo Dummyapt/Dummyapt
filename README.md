@@ -15,11 +15,11 @@
 ## Connect with me:
 
 [<img alt="www.dummyapt.com" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website] My website  
+[<img alt="pastebin.dummyapt.com" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website] My PasteBin page (PrivateBin)  
 [<img alt="Dummyapt | YouTube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube] My YouTube channel (more gaming related)  
-[<img alt="Dummyapt | Twitter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" />][twitter] My Twitter (Currently private)  
+[<img alt="Dummyapt | Twitter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" />][twitter] My Twitter  
 [<img alt="Dummyapt | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] My LinkedIn (Out of order)  
-[<img alt="Dummyapt | Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram] My Instagram (Currently private)
-
+[<img alt="Dummyapt | Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram] My Instagram (Currently private)  
 
 ## Languages, Tools etc.:
 
