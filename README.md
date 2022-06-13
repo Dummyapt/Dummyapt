@@ -14,8 +14,8 @@
 
 ## Connect with me:
 
-[<img alt="www.dummyapt.com" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website] My website  
-[<img alt="pastebin.dummyapt.com" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website] My PasteBin page (PrivateBin)  
+[<img alt="www.dummyapt.de" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][website] My website  
+[<img alt="pastebin.dummyapt.de" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />][pastebin] My PasteBin page (PrivateBin)  
 [<img alt="Dummyapt | YouTube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube] My YouTube channel (more gaming related)  
 [<img alt="Dummyapt | Twitter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" />][twitter] My Twitter  
 [<img alt="Dummyapt | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] My LinkedIn (Out of order)  
@@ -42,6 +42,7 @@
 </p>
 
 [website]: https://www.dummyapt.de
+[pastebin]: https://pastebin.dummyapt.de
 [twitter]: https://twitter.com/Dummyapt
 [youtube]: https://www.youtube.com/channel/UCkdI5tXToLqHvyaBRqW0s7Q
 [instagram]: https://instagram.com/Dummyapt
