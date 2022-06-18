@@ -7,9 +7,10 @@
 
 ## I'm a junior developer and student!
 
-- 🌱 I’m currently going to school. Besides school I'm also learning Java, JavaFX and JDBC
-- 👀 I’m interested in small to mid-size Java procjects and administrating servers
+- 🌱 Right now I'm a trainee and studying computer science at a university.
+- 👀 I’m interested in small to mid-size Java/JavaScript/Python projects and administrating servers
 - ⚡ Fun fact: I like classical music and taking pictures of nature
+- ⚡ Another fun fact: My preferred operating systems are Debian and Windumb
 
 
 ## Connect with me:
