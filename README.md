@@ -2,7 +2,7 @@
 
 # Hi there, I'm [Dummyapt](https://www.dummyapt.dev)🙋‍
 
-## I'm a junior developer and college student!
+## I'm a junior software developer and college student!
 
 - 👾 I'm currently on LEVEL 21
 - 🌍 I live somewhere in Europe, perhaps Germany
