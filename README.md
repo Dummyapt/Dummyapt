@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=www.dummyapt.dev&style=for-the-badge&url=https%3A%2F%2Fwww.dummyapt.dev)](https://www.dummyapt.dev)
+[![Website](https://img.shields.io/website?label=www.dummyapt.dev&style=for-the-badge&url=https%3A%2F%2Fwww.dummyapt.dev%2Factuator%2Fhealth)](https://www.dummyapt.dev)
 
 # Hi there, I'm [Dummyapt](https://www.dummyapt.dev)🙋‍
 
