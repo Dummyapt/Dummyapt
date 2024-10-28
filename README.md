@@ -4,7 +4,7 @@
 
 ## I'm a junior software developer and college student!
 
-- 👾 I'm currently on LEVEL 21
+- 👾 I'm currently on LEVEL 22
 - 🌍 I live somewhere in Europe, perhaps Germany
 - 🌱 Right now, I'm a trainee and studying computer science at a university
 - 👀 I’m interested in small to mid-size Java projects and administrating servers
