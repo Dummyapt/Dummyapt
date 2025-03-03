@@ -1,5 +1,3 @@
-[![Website](https://img.shields.io/website?label=www.dummyapt.dev&style=for-the-badge&url=https%3A%2F%2Fwww.dummyapt.dev%2Factuator%2Fhealth)](https://www.dummyapt.dev)
-
 # Hi there, I'm [Dummyapt](https://www.dummyapt.dev)🙋‍
 
 ## I'm a junior software developer and college student!
@@ -34,12 +32,6 @@
   <img alt="JavaScript" src="/icons/JavaScript.png" width="48px" >
   <img alt="HTML5" src="/icons/HTML5.png" width="48px" >
   <img alt="CSS3" src="/icons/CSS3.png" width="48px" >
-</p>
-
-## Connect with me:
-
-<p align="center">
-  <a href="https://www.dummyapt.dev"><img alt="Website" src="/icons/WWW.png" width="64px" ></a>
 </p>
 
 ### Legal notices
