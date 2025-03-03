@@ -6,7 +6,7 @@
 
 - 👾 I'm currently on LEVEL 22
 - 🌍 I live somewhere in Europe, perhaps Germany
-- 🌱 Studying computer science and working for a big tech company
+- 🌱 Studying computer science and working for a tech company
 - 👀 I’m interested in small to mid-size Java projects and administrating servers
 - ⚡ Fun fact: I like classical music and taking pictures of nature
 - ➕ Another fun fact: My preferred operating systems are Ubuntu and macOS
